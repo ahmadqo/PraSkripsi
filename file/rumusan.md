@@ -1,4 +1,4 @@
-##1.2	Rumusan Masalah<br>
+## 1.2	Rumusan Masalah<br>
 
 <p>Berdasarkan uraian dari latar belakang diatas, maka dapat dirumuskan suatu pokok permasalah dalam penelitian ini adalah sebagai berikut:</p>
 <ol>

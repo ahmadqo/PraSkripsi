@@ -1,4 +1,4 @@
-##1.5	Manfaat Penelitian<br>
+## 1.5	Manfaat Penelitian<br>
 
 <p>Manfaat yang diharapkan dari penelitian ini adalah:</p>
 <ol>
